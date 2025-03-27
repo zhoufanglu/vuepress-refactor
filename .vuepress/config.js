@@ -1,6 +1,7 @@
 module.exports = {
   "title": "lufangzhou",
   "description": "记录平凡的人生",
+  base: '/vuepressBlog/',
   "dest": "public",
   "head": [
     [
@@ -23,27 +24,18 @@ module.exports = {
     "nav": [
       {
         text: '个人主页',
+        "icon": "reco-home",
         items: [
           {text: 'GitHub', link: 'https://github.com/zhoufanglu'},
           {text: '掘金', link: 'https://juejin.im/user/5afd39c36fb9a07ac162a318'},
           {text: 'previous-blog', link: 'https://zhoufanglu.github.io/'},
         ]
       },
-      {text: '专利', link: '/随笔/patent.html'},
+      {text: '专利', link: '/随笔/patent.html', "icon": "reco-message",},
       {
         "text": "TimeLine",
         "link": "/timeline/",
         "icon": "reco-date"
-      },
-      {
-        "text": "Docs",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          }
-        ]
       },
     ],
 /*
