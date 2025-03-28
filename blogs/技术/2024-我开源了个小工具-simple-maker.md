@@ -1,7 +1,7 @@
 ---
 title: 2024年底，我开源了个小工具-simple-maker
 date: 2024-12-15
-sticky: 1
+sticky: 2
 tags: 
   - vue
 ---

@@ -31,7 +31,7 @@ module.exports = {
           {text: 'previous-blog', link: 'https://zhoufanglu.github.io/'},
         ]
       },
-      {text: '专利', link: '/blogs/专利/patent.md', "icon": "reco-message","location": 0,},
+      {text: '关于我', link: '/blogs/人物传/卢方舟.md', "icon": "reco-message","location": 0,},
       {
         "text": "TimeLine",
         "link": "/timeline/",
@@ -57,7 +57,7 @@ module.exports = {
       },*/
       "tag": {
         "location": 3,
-        "text": "tag"
+        "text": "分类"
       }
     },
     friendLink: [
