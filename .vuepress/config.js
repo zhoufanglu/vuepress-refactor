@@ -31,7 +31,7 @@ module.exports = {
           {text: 'previous-blog', link: 'https://zhoufanglu.github.io/'},
         ]
       },
-      {text: '专利', link: '/随笔/patent.html', "icon": "reco-message",},
+      {text: '专利', link: '/blogs/专利/patent.md', "icon": "reco-message","location": 0,},
       {
         "text": "TimeLine",
         "link": "/timeline/",
@@ -51,13 +51,13 @@ module.exports = {
     "type": "blog",
     "authorAvatar": '/img/headimg.jpg',
     "blogConfig": {
-      "category": {
+      /*"category": {
         "location": 2,
         "text": "Category"
-      },
+      },*/
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "tag"
       }
     },
     friendLink: [
@@ -87,7 +87,7 @@ module.exports = {
       },
       {
         "title": "Xiaojun Zhou",
-        "logo": "https://www.xiaojun.im/avatar.jpg",
+        // "logo": "https://www.xiaojun.im/avatar.jpg",
         "link": "https://xiaojun.im"
       },
       {
@@ -106,7 +106,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "lufangzhou",
-    "record": "xxxx",
+    "record": "卢方舟",
     "startYear": "2019"
   },
   "markdown": {

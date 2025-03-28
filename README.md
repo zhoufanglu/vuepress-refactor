@@ -25,3 +25,11 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+
+<!--
+## 修改了一些repo的源码
+目录:node_modules\vuepress-theme-reco\components\Navbar.vue
+目录:node_modules\vuepress-theme-reco\components\NoteAbstractItem.vue
+目录:node_modules/vuepress-theme-reco/components/HomeBlog/index.vue
+修改了以上三个文件
+-->
