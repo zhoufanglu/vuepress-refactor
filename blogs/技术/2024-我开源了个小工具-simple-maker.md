@@ -18,11 +18,7 @@ tags:
 
 ## 界面 (overview)
 
-![simple-maker-demo.gif](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/c547d7754e0c402cb23ac2ced8ae77b3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgZmFuZ3pob3VfbHU=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTY3OTcwOTQ5NjY3NzU3NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1743735965&x-orig-sign=v8uXHmzmPqNuPx3%2BSBZcF60H2kQ%3D)
-
-## 效果
-
-![LOL英雄难度梯度 🖊️.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/27b25b715101445884b579556e802adb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgZmFuZ3pob3VfbHU=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTY3OTcwOTQ5NjY3NzU3NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1743735965&x-orig-sign=V84GP5MydPHrBNQvL8O%2FozvX5wQ%3D)
+![simple-maker-demo.gif](https://github.com/zhoufanglu/simple-maker/blob/main/preview/simple-maker-demo.gif?raw=true)
 
 ## 已有功能
 
