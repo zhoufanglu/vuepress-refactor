@@ -17,7 +17,12 @@ module.exports = {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
+    ],
+    [
+      'script', // js 文件
+      { src: 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js' }
     ]
+
   ],
   "theme": "reco",
   "themeConfig": {
